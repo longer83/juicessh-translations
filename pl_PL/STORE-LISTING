@@ -1,4 +1,4 @@
-he all in one terminal client for Android including SSH, Local Shell, Mosh and Telnet support.
+The all in one terminal client for Android including SSH, Local Shell, Mosh and Telnet support.
   
 Features: 
 - Full colour terminal / ssh client
@@ -8,19 +8,19 @@ Features:
 - Gestures for irssi, weechat, tmux and screen
 - Community and third party plugins
 - Official Mosh support (http://mosh.mit.edu)
-- Telnet support
+- Wsparcie dla Telnetu
 - Local Android terminal support
 - Dark, Light, 80's hacker, Molokai, Solarized Dark and Solarized Light terminal color themes
    For an overview of solarized color scheme and why it rocks for terminal usage check out http://ethanschoonover.com/solarized
 - Click URLs to open in a browser
 - Copy & Paste within sessions
 - Save / Share SSH transcripts to Dropbox/Evernote/Email & SD card 
-- UTF-8 character support
+- Wsparcie kodowania UTF-8
 - Easily organise your connections by group
 - Keep multiple SSH sessions running in the background
 - Seamlessly connect 'via' other SSH connections with one click
 - Immediate access when you open the app to your frequently used connections
-- IPv6 support
+- Wsparcie IPv6
 - Password & OpenSSH private key support (ECDSA, RSA and DSA)
 - RSA key generator (encryption supported)
 - SSH key agent forwarding
