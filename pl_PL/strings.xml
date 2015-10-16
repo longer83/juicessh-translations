@@ -311,7 +311,7 @@
     <string name="removes_host_keys">Wipe previously seen host keys/fingerprints</string>
     <string name="are_you_sure_clear_known_hosts">Are you sure you want to clear all known host hosts?\n\nYou will be prompted to accept/reject the host key/fingerprints next time you connect to them.</string>
     <string name="known_hosts_cleared">Known hosts cleared</string>
-    <string name="refresh">Refresh</string>
+    <string name="refresh">Odśwież</string>
     <string name="configure_widget">Configure Widget</string>
     <string name="connections_will_be_shown">%s connections will be shown</string>
     <string name="update_frequency">Update Frequency</string>
